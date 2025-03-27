@@ -27,6 +27,7 @@ Margins, paddings, and borders.
  - Improve readability and aesthetics.
 
 **ANSWERS**
+
 /* Styling using IDs */
 #header {
     background-color: #4CAF50;
@@ -81,6 +82,7 @@ a:hover {
     color: #1d70b8;
     text-decoration: underline;
 }
+
 **HTML**
 <!DOCTYPE html>
 <html lang="en">
